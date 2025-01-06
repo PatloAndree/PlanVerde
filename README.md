@@ -1,14 +1,2 @@
-##EJECUTAR
-1.- composer install
-2.- php artisan migrate 
-3.- php artisan db:seed --class=RolesTableSeeder
-4.- php artisan db:seed --class=PermissionsTableSeeder
-composer dump-autoload
-
-
-
-
-##TIPO DE DOCUMENTOS (UPLOAD)
-1.- Documento General
-2.- Documento con Vencimiento 
-3.- Documento de Incidencia
+[![Captura-de-pantalla-2025-01-06-111629.png](https://i.postimg.cc/1t8gS7zh/Captura-de-pantalla-2025-01-06-111629.png)](https://postimg.cc/bDjYHTb3)
+[![Captura-de-pantalla-2025-01-06-111838.png](https://i.postimg.cc/hvxfzJx2/Captura-de-pantalla-2025-01-06-111838.png)](https://postimg.cc/Fkr9wHTS)
